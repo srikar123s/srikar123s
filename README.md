@@ -14,7 +14,7 @@
 
   <p>
     Building intelligent systems at the intersection of
-    <b>Artificial Intelligence, Geospatial Computing, Generative AI and Software Engineering.</b>
+    <b>Artificial Intelligence, Generative AI and Software Engineering.</b>
   </p>
 
   <p>
