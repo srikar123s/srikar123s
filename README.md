@@ -81,75 +81,48 @@ The system explores efficient spatial computation through adaptive quadtree terr
 
 **Explore the work:**
 
-- [📄 Patent Application Document](https://raw.githubusercontent.com/srikar123s/portfolio/main/public/multi-hazard.pdf)
+- [📄 Patent Application Document](https://raw.githubusercontent.com/srikar123s/srikar123s/multihazard.pdf)
 - [💻 Implementation Repository](https://github.com/srikar123s/Multi-Hazard-Prediction-System)
 
 ---
-
 ## 🛠️ Technical Arsenal
 
-### 💻 Programming Languages
+### 🧠 AI, ML & GenAI
+<p>
+  <img src="https://img.shields.io/badge/Machine_Learning-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-5A45FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-00897B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-7952B3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6600?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Cleaning_&_Preprocessing-607D8B?style=for-the-badge" />
+</p>
 
+### 💻 Languages & Development
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-4479A1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### 🧠 Machine Learning & Data Science
-
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
-</p>
-
-### 🤖 Generative AI, LLMs & NLP
-
-<p>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logo=groq&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6600?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG_Pipelines-DFFF45?style=for-the-badge&logo=diagramsdotnet&logoColor=black" />
-</p>
-
-### 🌐 Full-Stack & Backend Development
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Development-1572B6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebXR-000000?style=for-the-badge&logo=webxr&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-</p>
-
-### 🗄️ Databases, Cloud & Developer Tools
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Core CS Concepts
+<p>
+  <img src="https://img.shields.io/badge/DSA-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Operating_Systems-607D8B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Networks-1565C0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cyber_Security-263238?style=for-the-badge" />
 </p>
 
 ---
@@ -184,7 +157,7 @@ A multi-hazard simulation framework designed to analyze flood inundation and lan
 
 `Python` `GDAL` `Rasterio` `NumPy` `GeoPandas`
 
-[💻 Repository](https://github.com/srikar123s/Multi-Hazard-Prediction-System) · [📄 Patent Document](https://raw.githubusercontent.com/srikar123s/portfolio/main/public/multi-hazard.pdf)
+[💻 Repository](https://github.com/srikar123s/Multi-Hazard-Prediction-System) · [📄 Patent Document](https://raw.githubusercontent.com/srikar123s/srikar123s/multihazard.pdf)
 
 ---
 
