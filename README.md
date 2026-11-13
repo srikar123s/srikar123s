@@ -185,31 +185,8 @@ A full-stack agricultural marketplace connecting farmers and consumers through p
 
 ---
 
-### 🩺 5. Smart-Heal
 
-**NLP-Based Health Information Assistance**
-
-An experimental health-information application exploring symptom analysis and medical information assistance through NLP, transformer embeddings, fuzzy matching and severity-based classification.
-
-`Python` `Transformers` `FastAPI` `NLP` `Scikit-Learn`
-
-[💻 View Repository](https://github.com/srikar123s/Smart-Heal)
-
----
-
-### 🌱 6. Crop Yield Predictor
-
-**Machine Learning & Predictive Agricultural Analytics**
-
-A crop yield prediction system using ensemble machine learning techniques, including XGBoost, LightGBM and Random Forest, with SHAP-based model explainability.
-
-`Python` `XGBoost` `LightGBM` `Random Forest` `SHAP` `Pandas`
-
-[💻 View Repository](https://github.com/srikar123s/Crop-Yield-Predictor)
-
----
-
-### 🖼️ 7. Advanced Data Compression
+### 🖼️ 5. Advanced Data Compression (CAP-RC+++)
 
 **Lossless Image Compression**
 
@@ -221,7 +198,7 @@ A hybrid compression framework exploring Huffman coding, Run-Length Encoding and
 
 ---
 
-### 💬 8. Anonymous Ephemeral Chat
+### 💬 6. Anonymous Ephemeral Chat
 
 **Real-Time Privacy-Focused Communication**
 
@@ -233,29 +210,6 @@ A real-time chat application featuring temporary communication rooms, SHA-256-ba
 
 ---
 
-### 🥽 9. WebStore AR/VR
-
-**Immersive 3D E-Commerce Experience**
-
-An interactive 3D shopping experience exploring WebXR, Three.js, GLTF/GLB models and real-time rendering.
-
-`Three.js` `WebXR` `React` `Node.js` `Express.js`
-
-[💻 View Repository](https://github.com/srikar123s/webstore)
-
----
-
-### 📚 10. SmartStudyMate
-
-**AI-Powered Personalized Learning Assistant**
-
-An intelligent learning application exploring automated question generation, PDF-based knowledge extraction, vector indexing and spaced-repetition study scheduling.
-
-`Python` `FastAPI` `LangChain` `Sentence Transformers`
-
-[💻 View Repository](https://github.com/srikar123s/studymate)
-
----
 ## 📊 GitHub Analytics
 
 <div align="center">
