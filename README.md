@@ -271,15 +271,7 @@ An intelligent learning application exploring automated question generation, PDF
 
 </div>
 
----
 
-## 🐍 Contribution Activity
-
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/srikar123s/srikar123s/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-
-</div>
 
 ---
 
