@@ -260,13 +260,13 @@ An intelligent learning application exploring automated question generation, PDF
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=srikar123s&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=srikar123s&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
 
   <img width="49%" src="https://streak-stats.demolab.com/?user=srikar123s&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
   <br/><br/>
 
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikar123s&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+  <img width="55%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=srikar123s&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
 
 </div>
 
