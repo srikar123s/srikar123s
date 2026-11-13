@@ -256,22 +256,19 @@ An intelligent learning application exploring automated question generation, PDF
 [💻 View Repository](https://github.com/srikar123s/studymate)
 
 ---
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=srikar123s&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&title_color=DFFF45&icon_color=DFFF45&bg_color=0D1117" alt="GitHub Statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=srikar123s&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
 
-  <img width="49%" src="https://streak-stats.demolab.com/?user=srikar123s&theme=tokyonight&hide_border=true&ring=DFFF45&fire=DFFF45&currStreakLabel=DFFF45&background=0D1117" alt="GitHub Contribution Streak" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=srikar123s&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
   <br/><br/>
 
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikar123s&layout=compact&theme=tokyonight&hide_border=true&title_color=DFFF45&bg_color=0D1117&langs_count=8" alt="Most Used Languages" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikar123s&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
 
 </div>
-
-
 
 ---
 
