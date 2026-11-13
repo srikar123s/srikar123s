@@ -81,7 +81,7 @@ The system explores efficient spatial computation through adaptive quadtree terr
 
 **Explore the work:**
 
-- [📄 Patent Application Document](https://raw.githubusercontent.com/srikar123s/multihazard.pdf)
+- [📄 Patent Application Document](https://raw.githubusercontent.com/srikar123s/srikar123s/blob/main/multihazard.pdf)
 - [💻 Implementation Repository](https://github.com/srikar123s/Multi-Hazard-Prediction-System)
 
 ---
@@ -157,7 +157,7 @@ A multi-hazard simulation framework designed to analyze flood inundation and lan
 
 `Python` `GDAL` `Rasterio` `NumPy` `GeoPandas`
 
-[💻 Repository](https://github.com/srikar123s/Multi-Hazard-Prediction-System) · [📄 Patent Document](https://raw.githubusercontent.com/srikar123s/srikar123s/multihazard.pdf)
+[💻 Repository](https://github.com/srikar123s/Multi-Hazard-Prediction-System) · [📄 Patent Document](https://raw.githubusercontent.com/srikar123s/srikar123s/blob/main/multihazard.pdf)
 
 ---
 
